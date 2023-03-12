@@ -2398,8 +2398,8 @@ body {
   background-color: rgba(255, 255, 255, 0.2);
   color: #FFFFFF; }
   .nav-pills.nav-pills-neutral .nav-item .nav-link.active, .nav-pills.nav-pills-neutral .nav-item .nav-link.active:focus, .nav-pills.nav-pills-neutral .nav-item .nav-link.active:hover {
-    background-color: #FFFFFF;
-    color: #378C3F; }
+    background-color: #378C3F;
+    color: #FFFFFF; }
 
 .nav-pills.nav-pills-primary .nav-item .nav-link.active, .nav-pills.nav-pills-primary .nav-item .nav-link.active:focus, .nav-pills.nav-pills-primary .nav-item .nav-link.active:hover {
   background-color: #378C3F; }
